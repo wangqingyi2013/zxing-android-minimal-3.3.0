@@ -1,0 +1,42 @@
+10
+
+dir
+0
+http://wang.qingyi%40pandabus.cn@192.168.1.23:8008/pandaCustomBus_AndroidStudio_Pro/PCBPanda/branches/v5.4.0!/zxing/src/main/res/drawable-xxhdpi
+http://wang.qingyi%40pandabus.cn@192.168.1.23:8008
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f3174d80-e5c3-4bf2-8fd7-53541b316dee
+
+launcher_icon.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+

@@ -1,0 +1,182 @@
+10
+
+dir
+0
+http://wang.qingyi%40pandabus.cn@192.168.1.23:8008/pandaCustomBus_AndroidStudio_Pro/PCBPanda/branches/v5.4.0!/zxing/src/main/java/com/google/zxing/client/android
+http://wang.qingyi%40pandabus.cn@192.168.1.23:8008
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f3174d80-e5c3-4bf2-8fd7-53541b316dee
+
+AmbientLightManager.java
+file
+
+
+
+add
+
+BeepManager.java
+file
+
+
+
+add
+
+CaptureActivity.java
+file
+
+
+
+add
+
+CaptureActivityHandler.java
+file
+
+
+
+add
+
+Contents.java
+file
+
+
+
+add
+
+DecodeFormatManager.java
+file
+
+
+
+add
+
+DecodeHandler.java
+file
+
+
+
+add
+
+DecodeHintManager.java
+file
+
+
+
+add
+
+DecodeThread.java
+file
+
+
+
+add
+
+FinishListener.java
+file
+
+
+
+add
+
+InactivityTimer.java
+file
+
+
+
+add
+
+IntentSource.java
+file
+
+
+
+add
+
+Intents.java
+file
+
+
+
+add
+
+LocaleManager.java
+file
+
+
+
+add
+
+PreferencesActivity.java
+file
+
+
+
+add
+
+PreferencesFragment.java
+file
+
+
+
+add
+
+ViewfinderResultPointCallback.java
+file
+
+
+
+add
+
+ViewfinderView.java
+file
+
+
+
+add
+
+camera
+dir
+
+
+
+add
+
+encode
+dir
+
+
+
+add
+
+result
+dir
+
+
+
+add
+
+wifi
+dir
+
+
+
+add
+

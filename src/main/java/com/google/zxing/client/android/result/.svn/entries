@@ -1,0 +1,126 @@
+10
+
+dir
+0
+http://wang.qingyi%40pandabus.cn@192.168.1.23:8008/pandaCustomBus_AndroidStudio_Pro/PCBPanda/branches/v5.4.0!/zxing/src/main/java/com/google/zxing/client/android/result
+http://wang.qingyi%40pandabus.cn@192.168.1.23:8008
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f3174d80-e5c3-4bf2-8fd7-53541b316dee
+
+AddressBookResultHandler.java
+file
+
+
+
+add
+
+CalendarResultHandler.java
+file
+
+
+
+add
+
+EmailAddressResultHandler.java
+file
+
+
+
+add
+
+GeoResultHandler.java
+file
+
+
+
+add
+
+ISBNResultHandler.java
+file
+
+
+
+add
+
+ProductResultHandler.java
+file
+
+
+
+add
+
+ResultButtonListener.java
+file
+
+
+
+add
+
+ResultHandler.java
+file
+
+
+
+add
+
+ResultHandlerFactory.java
+file
+
+
+
+add
+
+SMSResultHandler.java
+file
+
+
+
+add
+
+TelResultHandler.java
+file
+
+
+
+add
+
+TextResultHandler.java
+file
+
+
+
+add
+
+URIResultHandler.java
+file
+
+
+
+add
+
+WifiResultHandler.java
+file
+
+
+
+add
+
